@@ -1,0 +1,15 @@
+C:\Users\maros\Workspace\MarosiCsaba_Januar_Szombat\ProgrammingBasics\ProgrammingBasics\bin\Debug\net6.0\ProgrammingBasics.exe
+C:\Users\maros\Workspace\MarosiCsaba_Januar_Szombat\ProgrammingBasics\ProgrammingBasics\bin\Debug\net6.0\ProgrammingBasics.deps.json
+C:\Users\maros\Workspace\MarosiCsaba_Januar_Szombat\ProgrammingBasics\ProgrammingBasics\bin\Debug\net6.0\ProgrammingBasics.runtimeconfig.json
+C:\Users\maros\Workspace\MarosiCsaba_Januar_Szombat\ProgrammingBasics\ProgrammingBasics\bin\Debug\net6.0\ProgrammingBasics.dll
+C:\Users\maros\Workspace\MarosiCsaba_Januar_Szombat\ProgrammingBasics\ProgrammingBasics\bin\Debug\net6.0\ProgrammingBasics.pdb
+C:\Users\maros\Workspace\MarosiCsaba_Januar_Szombat\ProgrammingBasics\ProgrammingBasics\obj\Debug\net6.0\ProgrammingBasics.csproj.AssemblyReference.cache
+C:\Users\maros\Workspace\MarosiCsaba_Januar_Szombat\ProgrammingBasics\ProgrammingBasics\obj\Debug\net6.0\ProgrammingBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maros\Workspace\MarosiCsaba_Januar_Szombat\ProgrammingBasics\ProgrammingBasics\obj\Debug\net6.0\ProgrammingBasics.AssemblyInfoInputs.cache
+C:\Users\maros\Workspace\MarosiCsaba_Januar_Szombat\ProgrammingBasics\ProgrammingBasics\obj\Debug\net6.0\ProgrammingBasics.AssemblyInfo.cs
+C:\Users\maros\Workspace\MarosiCsaba_Januar_Szombat\ProgrammingBasics\ProgrammingBasics\obj\Debug\net6.0\ProgrammingBasics.csproj.CoreCompileInputs.cache
+C:\Users\maros\Workspace\MarosiCsaba_Januar_Szombat\ProgrammingBasics\ProgrammingBasics\obj\Debug\net6.0\ProgrammingBasics.dll
+C:\Users\maros\Workspace\MarosiCsaba_Januar_Szombat\ProgrammingBasics\ProgrammingBasics\obj\Debug\net6.0\refint\ProgrammingBasics.dll
+C:\Users\maros\Workspace\MarosiCsaba_Januar_Szombat\ProgrammingBasics\ProgrammingBasics\obj\Debug\net6.0\ProgrammingBasics.pdb
+C:\Users\maros\Workspace\MarosiCsaba_Januar_Szombat\ProgrammingBasics\ProgrammingBasics\obj\Debug\net6.0\ProgrammingBasics.genruntimeconfig.cache
+C:\Users\maros\Workspace\MarosiCsaba_Januar_Szombat\ProgrammingBasics\ProgrammingBasics\obj\Debug\net6.0\ref\ProgrammingBasics.dll
