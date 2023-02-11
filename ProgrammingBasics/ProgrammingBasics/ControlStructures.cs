@@ -178,7 +178,7 @@ for (int i = 1; i <= 10; i++)
 
 // -----------------------
 // Metódusok
-
+/*
 double f1 = 12.5f;   // ez is floating point szám
 double f2 = 3;
 
@@ -187,5 +187,6 @@ double power2 = Math.Pow(45, 11.5);
 
 double f3 = Math.Abs(f1);
 double pi = Math.PI;
-
-
+double f4 = Math.Sqrt(f2);
+*/
+// ------------------------
